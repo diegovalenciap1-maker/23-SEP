@@ -1,0 +1,6 @@
+{
+  "name": "Perceptrón Multicapa: Fashion-MNIST Explorer",
+  "description": "Laboratorio interactivo y visual para comprender la arquitectura, matemáticas, propagación hacia adelante y entrenamiento del Perceptrón Multicapa (MLP) con Fashion-MNIST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
